@@ -1,0 +1,2 @@
+# matalb-remove-specular-highlights-
+参考https://github.com/jiemojiemo/some_specular_detection_and_inpainting_methods_for_endoscope_image，对源码matlab版本不同进行了修改，在matlab2018以下也可用正常使用
